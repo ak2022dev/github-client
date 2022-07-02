@@ -1,0 +1,24 @@
+{
+  "name": "github-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak2022dev/github-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ak2022dev/github-client/issues"
+  },
+  "homepage": "https://github.com/ak2022dev/github-client#readme",
+  "dependencies": {
+    "got": "^11.8.5",
+    "jest": "^28.1.2"
+  }
+}
